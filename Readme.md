@@ -2,7 +2,6 @@
 
 
 
-
 Welcome to my personal portfolio website repository! This website serves as a showcase of my web development and design projects, skills, and experiences. It's designed to provide visitors with an insight into my journey and capabilities in the world of web technology.
 
 ## Table of Contents
@@ -27,8 +26,6 @@ Welcome to my personal portfolio website repository! This website serves as a sh
 - React for dynamic user interactions.
 - GitHub Pages for hosting the live site.
 
-## Getting Started
+Contact: https://www.linkedin.com/in/rahul-saini-web-developer/
 
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/YourUsername/YourPortfolioRepository.git
+
