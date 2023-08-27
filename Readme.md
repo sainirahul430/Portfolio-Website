@@ -1,6 +1,7 @@
 # My Portfolio Website
 
 
+![Uploading Screenshot 2023-08-27 at 9.53.14 AM.png…]()
 
 Welcome to my personal portfolio website repository! This website serves as a showcase of my web development and design projects, skills, and experiences. It's designed to provide visitors with an insight into my journey and capabilities in the world of web technology.
 
@@ -12,9 +13,6 @@ Welcome to my personal portfolio website repository! This website serves as a sh
 - [Getting Started](#getting-started)
 - [Contact](#contact)
 
-## Live Demo
-
-Explore the live version of my portfolio: [YourPortfolioURLHere](https://www.yourportfolio.com)
 
 ## Features
 
